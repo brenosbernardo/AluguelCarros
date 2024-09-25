@@ -1,0 +1,6 @@
+@GerenciadorAluguelCarro_HostAddress = http://localhost:5162
+
+GET {{GerenciadorAluguelCarro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

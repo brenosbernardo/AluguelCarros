@@ -1,0 +1,64 @@
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.csproj.AssemblyReference.cache
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.AssemblyInfoInputs.cache
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.AssemblyInfo.cs
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.csproj.CoreCompileInputs.cache
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\appsettings.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.exe
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.deps.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.runtimeconfig.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.pdb
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.GerenciadorAluguelCarro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.build.GerenciadorAluguelCarro.props
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GerenciadorAluguelCarro.props
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GerenciadorAluguelCarro.props
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\scopedcss\bundle\GerenciadorAluguelCarro.styles.css
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\Gerencia.29ECE0E9.Up2Date
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\refint\GerenciadorAluguelCarro.dll
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.pdb
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.genruntimeconfig.cache
+C:\Users\Kaue\Documents\Projetos\Lucca\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\ref\GerenciadorAluguelCarro.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\appsettings.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.exe
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.deps.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.runtimeconfig.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\GerenciadorAluguelCarro.pdb
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.csproj.AssemblyReference.cache
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.AssemblyInfoInputs.cache
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.AssemblyInfo.cs
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.csproj.CoreCompileInputs.cache
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.GerenciadorAluguelCarro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.build.GerenciadorAluguelCarro.props
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GerenciadorAluguelCarro.props
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GerenciadorAluguelCarro.props
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\scopedcss\bundle\GerenciadorAluguelCarro.styles.css
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\Gerencia.29ECE0E9.Up2Date
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\refint\GerenciadorAluguelCarro.dll
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.pdb
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\GerenciadorAluguelCarro.genruntimeconfig.cache
+C:\Users\jseix\OneDrive\Área de Trabalho\GerenciadorAluguelCarro\GerenciadorAluguelCarro\obj\Debug\net8.0\ref\GerenciadorAluguelCarro.dll
